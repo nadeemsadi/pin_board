@@ -27,6 +27,7 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'devise', '~> 4.2'
+gem 'paperclip', '~> 5.0'
 
 
 # Use Redis adapter to run Action Cable in production
